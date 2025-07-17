@@ -6,7 +6,7 @@ use anchor_lang::prelude::*;
 declare_id!("3e6RDfc3qPxtKGL9xav8bZrDu8NH2zt8wxo2dJjFtV76");
 
 #[program]
-pub mod counter {
+pub mod prediction_marketplace {
     use super::*;
 
     pub fn create_market(ctx: Context<CreateMarket>, question: String) -> Result<()> {

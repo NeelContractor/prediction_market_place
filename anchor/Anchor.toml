@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-counter = "3e6RDfc3qPxtKGL9xav8bZrDu8NH2zt8wxo2dJjFtV76"
+prediction_marketplace = "3e6RDfc3qPxtKGL9xav8bZrDu8NH2zt8wxo2dJjFtV76"
 
 [registry]
 url = "https://api.apr.dev"

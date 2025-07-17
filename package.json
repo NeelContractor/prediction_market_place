@@ -1,5 +1,5 @@
 {
-  "name": "perps",
+  "name": "prediction_marketplace",
   "scripts": {
     "anchor": "cd anchor && anchor",
     "anchor-build": "cd anchor && anchor build",
