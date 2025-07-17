@@ -1,3 +1,3 @@
-# Perps
+# Prediction Market Place
 
-a simpler version of perps on solana
+a simpler version of prediction market place on solana
